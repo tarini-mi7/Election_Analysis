@@ -13,8 +13,8 @@
 #  output of third step take the max value of all the values and return the corresponding candidate name.
 
 import csv
-from email.headerregistry import AddressHeader
 import os
+
 # Assign a variable for the file to load and the path.
 file_to_load = os.path.join("Resources", "election_results.csv")
 # Open the election results and read the file
@@ -31,17 +31,26 @@ with open(file_to_save, 'w') as outfile:
 
 with open(file_to_save, 'w') as txt_file:
     # Write three counties to the file.
-    txt_file.write( "Counties in the election\n-------------------------\nArapahoe\nDenver\nJefferson")
+    txt_file.write( "Counties in the election")
+    txt_file.write("\n-------------------------")
+    txt_file.write("\nArapahoe\nDenver\nJefferson")
 
+# 1. Initialize a total vote counter.
+total_votes = 0
 # Open the election results and read the file
 with open(file_to_load, 'r') as election_data: 
     # Read the file object with the reader function.
     file_reader = csv.reader(election_data)
-    # Print each row in the CSV file.
-    #for row in file_reader:
-        #print(row)
-# Print the header row.
+
+    # Read the header row.
     headers = next(file_reader)
     print(headers)
+    # Iterate over each row in the CSV file.
+    for row in file_reader:
+        # 2. Add to the total vote count.
+        total_votes += 1
+
+    # 3. Print the total votes.
+    print(total_votes)
 
 
