@@ -39,7 +39,7 @@ The winner of the election was: **Diana DeGette**
 
 The county with the largest voter turnout was: **Denver**
 
-Election Results Snapshot
+Election Results Snapshot:
 
 ![alt text](https://github.com/tarini-mi7/Election_Analysis/blob/main/resources/output.png)
 
