@@ -46,11 +46,9 @@ Election Results Snapshot
 ![alt text](https://github.com/tarini-mi7/Election_Analysis/blob/main/resources/output.png)
 
 # Election-Audit Summary
-Expanding the Election Audit to include voter turnout by county with candidates results was a great way to take advantage of the convenience of scripting. The added insight can be a guide for future election performance, so that one may properly allocate resources where turnout is low or demographics are hard to reach.
+We were able to easily expand our script to include voter turnout by county once we had the logic for candidate results in place. The combined insight was more informative for decision making in terms of allocating election resources. This script can be an important aid in on demand election analysis. One may run this script again and again at any phase of the election to track live progress.
 
-A little time invested into customizing the script can provide on-demand analysis for years to come.
-
-Modifying the script to produce turnout results by county is just one of many ways that minor adjustments to the code can reveal critical data. For example, we could also dive deeper and determine what percentage of each county voted for each candidate by adding an if-statement to the code. These type of Decision Statements are how the code runs calculations and all we've done is provide it with a data file.
+We can modify the script further to determine what percentage of each county voted for each candidate by adding an if-statement. 
 
 Similarly, if this were a federal election, we could use the same script and change the county to states.
 
