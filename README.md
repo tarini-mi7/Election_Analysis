@@ -30,16 +30,14 @@ There were 369,711 votes cast in the election.
 * Diana DeGette received 73.8% of the vote, for a total of 272,892 votes.
 * Raymon Anthony Doane received 3.1% of the vote, for a total of 11,606 votes.
 
-The winner of the election was:
-**Diana DeGette**, who received 73.8% of the vote for a total of 272,892 votes.
+The winner of the election was: **Diana DeGette**
 ## The voter turnout for each county was:
 
 * Jefferson produced 10.5% of voters, for a total of 38,855 voters.
 * Denver produced 82.8% of voters, for a total of 306,055 voters.
 * Arapahoe produced 6.7% of voters, for a total of 24,801 voters.
 
-The county with the largest voter turnout was:
-**Denver**, which produced 82.8% of voters, for a total of 306,055 voters.
+The county with the largest voter turnout was: **Denver**
 
 Election Results Snapshot
 
