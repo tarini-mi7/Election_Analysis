@@ -29,22 +29,24 @@ There were 369,711 votes cast in the election.
 * Charles Casper Stockham received 23.0% of the vote, for a total of 85,213 votes.
 * Diana DeGette received 73.8% of the vote, for a total of 272,892 votes.
 * Raymon Anthony Doane received 3.1% of the vote, for a total of 11,606 votes.
-The winner of the election was:
 
-Diana DeGette, who received 73.8% of the vote for a total of 272,892 votes.
+The winner of the election was:
+**Diana DeGette**, who received 73.8% of the vote for a total of 272,892 votes.
 ## The voter turnout for each county was:
 
 * Jefferson produced 10.5% of voters, for a total of 38,855 voters.
 * Denver produced 82.8% of voters, for a total of 306,055 voters.
 * Arapahoe produced 6.7% of voters, for a total of 24,801 voters.
-The county with the largest voter turnout was:
 
-Denver, which produced 82.8% of voters, for a total of 306,055 voters.
+The county with the largest voter turnout was:
+**Denver**, which produced 82.8% of voters, for a total of 306,055 voters.
+
 Election Results Snapshot
+
 ![alt text](https://github.com/tarini-mi7/Election_Analysis/blob/main/resources/output.png)
 
 # Election-Audit Summary
-Expanding the Election Audit to include voter turnout by county with candidates results has been a great way to take advantage of the convenience a script provides. The added insight can be a guide for future election performance, so that you may properly allocate resources where turnout is low or demographics are hard to reach.
+Expanding the Election Audit to include voter turnout by county with candidates results was a great way to take advantage of the convenience of scripting. The added insight can be a guide for future election performance, so that one may properly allocate resources where turnout is low or demographics are hard to reach.
 
 A little time invested into customizing the script can provide on-demand analysis for years to come.
 
@@ -52,6 +54,4 @@ Modifying the script to produce turnout results by county is just one of many wa
 
 Similarly, if this were a federal election, we could use the same script and change the county to states.
 
-In short, no matter the number of candidates or counties, the script used to perform the Election Audit can be a valuable resourse for the board.
-
-I am open to negotiation and available for consult if you are interested in talking further.
+In short, no matter the number of candidates or counties, the script used to perform the Election Audit can be a valuable resource for the board.
